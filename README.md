@@ -6,6 +6,7 @@
 🌍 best=IP:端口 – 手动指定优选IP 默认为443端口
 📂 示例：?best=ip.sb:443
 3️⃣ Path路径自定义
+
 🔧 通过路径参数调整代理行为：
 ✔️ path=/?ip=1.1.1.1 – 强制Proxy IP
 ✔️ path=/?s5=user:pass@host:port – SOCKS5代理 仅限当前订阅
