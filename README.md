@@ -1,3 +1,4 @@
+获取订阅使用 https://cfxr.eu.org/getSub?host=自定义域名
 🔧 参数自定义说明
  1️⃣ 基础订阅参数
  
